@@ -2,7 +2,7 @@ pipeline {
 
   environment {
 
-    registry = "dee-git-hub/dockerhubjenkins"
+    registry = "dee-git-hub/DevOps24thApril21"
 
     registryCredential = 'docker-creds'
 
